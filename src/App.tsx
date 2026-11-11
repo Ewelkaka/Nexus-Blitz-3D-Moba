@@ -297,7 +297,7 @@ export default function App() {
           >
             <div className="space-y-2">
               <h1 className="text-7xl font-black tracking-tighter italic uppercase text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-500">
-                Nexus Blitz 3D
+                Aether Rift: Tactical Clash 3D
               </h1>
               <p className="text-slate-400 font-mono tracking-widest uppercase text-sm">3D MOBA Prototype</p>
             </div>
